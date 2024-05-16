@@ -6,7 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-### As Lecturer in Art, Design & Media, Coding, Cybersecurity, Digital Marketing and a Senior Creative, I have a broad range of skills and plenty of experience. I teach, create, code and develop streamlined workflows. My aim is always to support and inspire while leveraging the latest technology to efficiently deliver great results. Over 25 years experience juggling projects, to brief and to deadline, for a variety of renowned organisations.
+### As Lecturer in Coding, Cybersecurity, Digital Marketing, Art, Design & Media (and a Senior Creative), I have a broad range of skills and plenty of experience. I teach, create, code and develop streamlined workflows.
+### My aim is always to support and inspire while leveraging the latest technology to efficiently deliver great results. Over 25 years experience juggling projects, to brief and to deadline, for a variety of renowned organisations.
 
 - 🔭 I’m currently working on... myself
 - 🌱 I’m currently learning... patience
